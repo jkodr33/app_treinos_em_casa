@@ -41,21 +41,22 @@ Demonstrações do aplicativo:
 
 Demo 1 Principal :
 
-![IMG_20250105_220640](https://github.com/user-attachments/assets/738158ec-0c12-474a-98d9-ee9c2eb32800)
+![Captura de tela 2025-01-05 224146](https://github.com/user-attachments/assets/ee596ab0-63f4-4491-b7e5-89dfb6c03f4d)
+
 
 Demo 2 Catálogo:  
 
-![IMG_20250105_220741](https://github.com/user-attachments/assets/fe8a7752-4f52-4a4a-8fc1-ad23b072c02d)
+![Captura de tela 2025-01-05 224228](https://github.com/user-attachments/assets/261e0144-0794-44a3-b4fd-539b070e0ca5)
+
 
 Demo 3 Marcar horário:
 
-![IMG_20250105_220849](https://github.com/user-attachments/assets/32cd5303-6c42-4393-8a14-6eae28096e56)
+![Captura de tela 2025-01-05 224256](https://github.com/user-attachments/assets/969a3372-5540-46ac-a8e3-1efd057f2b74)
 
 
 Demo 4 Treino marcado com sucesso!:
 
-![IMG_20250105_220933](https://github.com/user-attachments/assets/a0c8ba6a-198b-4ef9-9bc8-efd9095c02d6)
-
+![Captura de tela 2025-01-05 224347](https://github.com/user-attachments/assets/f0c4bc7f-07c2-411b-9e0b-7d5682379006)
 
 ## Instalação do Aplicativo 
 
